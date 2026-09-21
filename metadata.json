@@ -1,0 +1,6 @@
+{
+  "name": "ArcheryHub - Platform Manajemen Event Panahan",
+  "description": "Platform terpadu turnamen panahan standar PERPANI & World Archery: registrasi kontingen, studio desainer ID Card & logo sponsor, akreditasi multi-peran, registrasi ulang di lapangan via scan QR, uji kelayakan alat, studio cetak sasaran Target Face PDF skala 1:1, dan live scoring kualifikasi & eliminasi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
